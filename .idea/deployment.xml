@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/shaiberkov/Titanic.git" uploadOnCheckin="5e01d7c8-777d-4def-b647-9eec1841de40" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="https://github.com/shaiberkov/Titanic.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/shaiberkov/Titanic.git" />
+  </component>
+</project>
